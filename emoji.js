@@ -1,6 +1,6 @@
 const emoji = document.querySelector(".emoji");
 
-const emojis = ["🤝", "😪", "💚", "😉", "🔥", "🧑🏿‍💻"];
+const emojis = ["🤝", "😪", "💚", "😉", "🔥", "🧑🏿‍💻" , "😒" , "🤷🏿‍♂️" , "🌚","😣","😅" ,"😎","🤖"];
 
 
 emoji.addEventListener("mouseover", () => {
